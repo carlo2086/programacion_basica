@@ -1,0 +1,17 @@
+git clone https://github.com/carlo2086/programacion_basica.git
+si deseas clonarlo en una carpeta diferente
+git clone https://github.com/my-username/my-repo.git my-folder
+
+--- crear rama y cambiar
+git checkout -b sesion-01
+
+git commit 
+
+:wq -- para salir salir sin cambios
+
+-- para subir cambios sin que se abra el editor de testo
+git commit -m "mensaje del commit"
+
+-- para subir los cambios 
+
+git push
